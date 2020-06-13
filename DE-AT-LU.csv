@@ -1,4 +1,4 @@
-Begin;End;Solar Day Ahead;Solar Intraday ;Offshore Day Ahead;Offshore Intraday ;Onshore Day Ahead;Onshore Intraday 
+Begin;End;Solar DayAhead;Solar Intraday;Offshore DayAhead;Offshore Intraday;Onshore DayAhead;Onshore Intraday
 01.01.2018 00:00; 01.01.2018 00:15;0;0;3417;13529;28797;10837
 01.01.2018 00:15; 01.01.2018 00:30;0;0;3437;13295;29092;11040
 01.01.2018 00:30; 01.01.2018 00:45;0;0;3453;13369;29401;11241
